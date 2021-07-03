@@ -1,0 +1,11 @@
+p{
+	color:black;
+	font-size:50px;
+	font-weight:bold;
+	font-family:arial;
+}
+body{
+	background-image:url('../Images/hacker.png');
+	background-repeat:no-repeat;
+	background-size:cover;
+}
